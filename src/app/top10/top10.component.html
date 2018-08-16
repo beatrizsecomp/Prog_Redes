@@ -1,0 +1,15 @@
+<div style="text-align:center" class="titulo">
+    <h2>Top 10</h2>
+</div>
+<div class="menutop10">
+    <a (click)="atualizarDados(null)" class="link">GERAL</a>
+    <a (click)="atualizarDados(tipo.tipo)" class="link active" *ngFor="let tipo of Tipos">{{tipo.tipo}}</a>
+   
+</div>
+<div class="listatop10">
+    <ul class="lista">
+        <li *ngFor="let bairro of bairros |  slice:0:10; let i = index">
+            <span class="badge"> {{i+1}}</span> {{bairro.nome}} -  {{bairro.total_ocorrencia}}
+        </li>
+    </ul>
+</div>

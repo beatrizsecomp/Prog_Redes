@@ -1,0 +1,68 @@
+<div class="row filtro">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-sm-12">
+                <select class="form-control" [(ngModel)]='bairro'>
+                    <option value="">--Selecione o Bairro--</option>
+                    <option value="Geral" [class.selected]="bairro === bairroselecionado" (click)="onSelect(bairro)"
+                     >Feira de Santana</option>
+                    <option *ngFor="let bairro of bairros" value={{bairro.nome}}
+                            [class.selected]="bairro === bairroselecionado" (click)="onSelect(bairro)">
+                        {{bairro.nome}}
+                    </option>
+                </select>
+            </div>
+            <div class="col-md-8 col-sm-12 data">
+                <div class="row">
+                    <form class="form-inline col-md-4">
+                        <div class="form-group">
+                            <div class="input-group">
+                                <input class="form-control" placeholder="Data Inicial" name="dp"
+                                       [(ngModel)]="dataI" ngbDatepicker #di="ngbDatepicker">
+                                <div class="input-group-append">
+                                    <button class="btn btn-outline-secondary"
+                                            style="padding-top: 0; padding-bottom: 0" (click)="di.toggle()"
+                                            type="button">
+                                        <mat-icon>event</mat-icon>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    <form class="form-inline col-md-6">
+                        <div class="form-group">
+                            <div class="input-group">
+                                <input class="form-control" placeholder="Data Final" name="dp"
+                                       [(ngModel)]="dataF"
+                                       ngbDatepicker #df="ngbDatepicker">
+                                <div class="input-group-append">
+                                    <button class="btn btn-outline-secondary"
+                                            style="padding-top: 0; padding-bottom: 0" (click)="df.toggle()"
+                                            type="button">
+                                        <mat-icon>event</mat-icon>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container mapa" *ngIf="!bairro">
+    <agm-map [latitude]="lat" [longitude]="lng" [zoom]="zoom" [disableDefaultUI]="false" [zoomControl]="true">
+        <agm-marker *ngFor="let m of markers; let i = index" [latitude]="m.lat" [longitude]="m.lng"
+                    [label]="m.label">
+          <!--  <agm-info-window>
+                <a href="#">
+                    <strong>Ver estatisticas</strong>
+                </a>
+            </agm-info-window> -->
+        </agm-marker>
+    </agm-map>
+</div>
+
+<app-bairrosdetalhes [filtroBairro]="bairro" [dataInicio]="dataI" [dataFim]="dataF"
+                     *ngIf="bairro"></app-bairrosdetalhes>

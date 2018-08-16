@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "tipo": "homicídio",
+    "cor": "#17a2b8"
+  },
+  {
+    "id": 2,
+    "tipo": "furto",
+    "cor": "#17a2b8"
+  },
+  {
+    "id": 3,
+    "tipo": "estupro",
+    "cor": "#17a2b8"
+  },
+  {
+    "id": 4,
+    "tipo": "tráfico",
+    "cor": "#17a2b8"
+  },
+  {
+    "id": 5,
+    "tipo": "acidente",
+    "cor": "#17a2b8"
+  },
+  {
+    "id": 6,
+    "tipo": "chacina",
+    "cor": "#17a2b8"
+  },
+  {
+    "id": 7,
+    "tipo": "clandestino",
+    "cor": "#17a2b8"
+  },
+  {
+    "id": 8,
+    "tipo": "latrocínio",
+    "cor": "#17a2b8"
+  },
+  {
+    "id": 9,
+    "tipo": "sequestro",
+    "cor": "#17a2b8"
+  }
+]

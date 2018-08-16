@@ -1,0 +1,68 @@
+.titulo{
+	text-align:center;
+}
+.menuselecao{
+    width: 900px;
+	margin: auto;
+	line-height: 50px;
+	padding-bottom:50px;
+	padding-top: 50px;
+	}
+.menuselecaoint{
+	  width: 40%;
+	  height: 50px;
+	  float: left;
+}
+.menuselecaoint2{
+	width: 60%;
+	  height: 50px;
+	  float: right;
+	}	
+.seletor{
+	display: inline-block;
+    
+	}
+.data{
+	float: right;
+	left: 120px;
+  
+  }
+ .dataF{
+	float: right;
+	height: 50px;
+	line-height: 50px;
+	
+	margin-left: 8px;
+	margin-right: 8px;
+     }
+ 
+agm-map {
+	height: 500px;
+	
+	border-radius: 40px;
+	left: 325px; /* posiciona a npx para a esquerda */ 
+	
+	
+  }
+  .mapa{
+	background-color: #fff;
+	color: #93a9c2!important;
+	height: 570px;
+	margin: auto;
+	line-height: 50px;
+	padding-bottom:200px;
+	margin-top: 60px;
+	border-radius: 20px;
+	padding-top: 40px;
+	padding-left: 40 px;
+	padding-right: 40 px;
+  }
+  .datas{
+	  width: 50%;
+	  height: 30px;
+	  float: right;
+	  background-color: #fff;
+  }
+  .filtro{
+	  margin-top: 15px;
+  }

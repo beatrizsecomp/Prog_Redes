@@ -1,0 +1,21 @@
+<div class="row">
+<div style="text-align:center" class="titulo">
+    <h2> {{filtroBairro}} ( {{atual}} ocorrências ) <span *ngIf="dataInicio">{{dataInicio.day}}/{{dataInicio.month}}/{{dataInicio.year}}</span> <span *ngIf="dataFim">- {{dataFim.day}}/{{dataFim.month}}/{{dataFim.year}}</span>
+        
+    </h2>
+</div>
+</div>
+
+
+<div class="row">
+    <div class="container">
+        <div *ngFor="let tipo of Tipos" class="col-sm-4 grafico">
+            <div class="label-grafico"> <b>{{tipo.tipo}} </b></div>
+            <canvas id="{{'chart_' + tipo.id}}"></canvas>
+        </div>
+    </div>
+</div>
+
+
+
+

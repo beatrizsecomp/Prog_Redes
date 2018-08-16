@@ -1,0 +1,39 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+.componente {
+    width: 800px;
+    height: 570px;
+    margin: auto;
+    line-height: 50px;
+    padding-bottom: 200px;
+    margin-top: 60px;
+    border-radius: .25rem;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.componente:after {
+    border: 1px solid #ededed;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .1);
+    background: #f5f5f5;
+}
+
+.titulo {
+    width: 100%;
+    font-size: 1.5em;
+    padding: 5px 0;
+    margin: 15px 0 30px;
+    border-bottom: 2px dotted rgba(26, 42, 188, 0.3);
+}
+
+.grafico{
+    display: inline-block;
+}
+.label-grafico {
+    position: relative;
+    top: 100px;
+    
+    text-align: center;
+}
+

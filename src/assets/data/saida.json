@@ -1,0 +1,4940 @@
+[{
+                "url": "https://www.acordacidade.com.br/noticias/196954/delegacia-de-homicdios-de-feira-de-santana-tem-novo-delegado.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196941/feira-batalho-de-choque-impede-linchamento-e-apreende-arma-de-fogo.html",
+                "tipo": "furto",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "16",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196912/fim-de-semana-homem-morto-a-tiros-no-bairro-tomba.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196786/policiais-da-64cipm-atenderam-mais-de-500-solicitaes-via-whatsapp-este-ano-no-centro-da-cidade.html",
+                "tipo": "furto",
+                "bairro": "Ponto Central",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "12",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196744/acusado-de-homicdios-e-trfico-morre-em-troca-de-tiros-com-a-rondesp-leste.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "12",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196741/polcia-registra-mais-um-assassinato-no-bairro-tomba.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "11",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196737/homem-assassinado-dentro-de-casa-matadores-agrediram-os-familiares.html",
+                "tipo": "homicídio",
+                "bairro": "Campo Limpo",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "11",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196697/polcia-registra-um-homicdio-na-noite-de-tera-10-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Santo Antônio",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "11",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196677/mulher-confunde-vtima-de-assassinato-perto-da-rodoviria-com-a-prpria-filha.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "10",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196643/jovem-assassinada-na-calada-de-um-bar-prximo-rodoviria.html",
+                "tipo": "homicídio",
+                "bairro": "centro",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "9",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "http://www.bomdiafeira.com.br/noticias/26132/feira-de-santana-tem-final-de-semana-com-cinco-homicidios-registrados.html",
+                "tipo": "homicídio",
+                "bairro": "Aeroporto",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "9",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "http://www.bomdiafeira.com.br/noticias/26042/mulher-e-morta-a-tiros-no-bairro-tomba.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "4",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196564/homem-assassinado-a-tiros-no-bairro-santo-antnio-dos-prazeres.html",
+                "tipo": "homicídio",
+                "bairro": "Aeroporto",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "8",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196550/homem-encontrado-morto-dentro-de-casa-no-conjunto-fraternidade.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "7",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196539/um-suspeito-de-homicdio-e-um-de-assalto-morrem-aps-confrontos-com-pms-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "7",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196538/motorista-baleado-perto-de-casa-no-bairro-queimadinha-morre-no-hgca.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "7",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196537/homem-morto-na-madrugada-deste-sbado-7-no-bairro-lagoa-salgada.html",
+                "tipo": "homicídio",
+                "bairro": "Lagoa Salgada",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "7",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196501/jovem-assassinado-e-duas-pessoas-so-baleadas-no-bairro-mangabeira.html",
+                "tipo": "homicídio",
+                "bairro": "Mangabeira",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196482/jovem-baleado-no-bairro-tomba-morre-no-hospital-clriston-andrade.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196479/homem-morto-ao-tentar-praticar-assalto-na-rua-castro-alves-diz-polcia.html",
+                "tipo": "homicídio",
+                "bairro": "centro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "5",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196467/prf-apreende-em-sp-25-toneladas-de-maconha-que-seriam-entregues-em-feira-de-santana.html",
+                "tipo": "tráfico",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "5",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196432/adolescente-suspeito-de-assalto-morre-aps-troca-de-tiros-com-a-polcia-no-bairro-mangabeira.html",
+                "tipo": "furto",
+                "bairro": "Mangabeira",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "5",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196412/mulher-presa-com-droga-avaliada-em-cerca-de-rs-300-mil-em-feira-de-santana.html",
+                "tipo": "tráfico",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "4",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196379/mulher-morta-a-tiros-no-bairro-tomba.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "4",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196377/junho-de-2018-foi-o-mais-violento-dos-ltimos-anos-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "3",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196332/acusados-de-assaltar-banco-so-presos-com-camisas-falsas-da-pf-em-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "3",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196327/polcia-registra-quatro-assassinatos-no-feriado-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Chácara São Cosme",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "3",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196324/jovem-assassinado-a-tiros-no-bairro-rua-nova.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "2",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196310/bandidos-tentam-assaltar-micro-nibus-que-conduzia-policiais-militares.html",
+                "tipo": "furto",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "2",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196299/ms-de-julho-comea-com-uma-pessoa-assassinada-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "2",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196278/humildes-acusado-de-estuprar-garota-de-14-conduzido-delegacia.html",
+                "tipo": "estupro",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "1",
+                "mes": "7",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196239/homicdio-registrado-na-noite-de-sexta-29-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Mangabeira",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "30",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196221/tomba-dupla-conduzida-delegacia-acusada-de-trfico-de-drogas.html",
+                "tipo": "tráfico",
+                "bairro": "São João",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "29",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196219/a-pedido-da-oab-ssp-investiga-lista-de-advogados-marcados-para-morrer-por-faces.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "29",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196187/com-medo-de-botijo-de-gs-explodir-mulher-se-joga-do-terceiro-andar-e-morre.html",
+                "tipo": "homicídio",
+                "bairro": "Aeroporto",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "29",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196182/polcia-militar-prende-acusado-de-liderar-trfico-de-drogas-em-feira-de-santana.html",
+                "tipo": "tráfico",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "28",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "http://www.bomdiafeira.com.br/noticias/25892/homem-morre-em-troca-de-tiros-com-a-policia-apos-tentar-matar-subtenente-da-pm.html",
+                "tipo": "furto",
+                "bairro": "Feira IX",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "http://www.bomdiafeira.com.br/noticias/25831/tenente-coronel-alagoano-e-baleado-durante-assalto-em-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "http://www.bomdiafeira.com.br/noticias/25701/final-de-semana-ainda-nao-terminou-e-policia-ja-contabilizou-15-homicidios-em-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Campo Limpo",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "http://www.bomdiafeira.com.br/noticias/25700/homem-e-assassinado-com-varios-tiros-na-praca-da-matriz.html",
+                "tipo": "homicídio",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196122/comisso-da-oab-pede-empenho-nas-investigaes-sobre-assassinato-de-advogada.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "27",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196080/advogada-sequestrada-e-assassinada-a-tiros-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Sobradinho",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "27",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196075/jovem-teve-corpo-queimado-pela-parceira-no-dia-dos-namorados-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Campo Limpo",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196055/polcia-militar-de-feira-de-santana-recupera-veculos-roubados.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "26",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196021/homem-morre-em-troca-de-tiros-com-a-polcia-aps-tentar-matar-subtenente-da-pm.html",
+                "tipo": "furto",
+                "bairro": "Feira IX",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196019/confeiteiro-esfaqueado-em-tentativa-de-assalto-praticado-por-travestis-em-ponto-de-nibus.html",
+                "tipo": "furto",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "25",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/196018/polcia-civil-prende-acusados-de-trfico-de-drogas-com-sete-quilos-de-cocana.html",
+                "tipo": "tráfico",
+                "bairro": "Cidade Nova",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "25",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195971/65-cipm-recupera-moto-e-apreende-drogas-no-conjunto-feira-iv.html",
+                "tipo": "furto",
+                "bairro": "Sobradinho",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "25",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195934/jovem-de-23-anos-assassinado-a-tiros-no-bairro-conceio.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "23",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195852/tenente-coronel-da-pm-reage-a-tentativa-de-assalto-e-baleado-na-avenida-presidente-dutra.html",
+                "tipo": "furto",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195851/calceteiro-assassinado-a-tiros-no-bairro-campo-limpo.html",
+                "tipo": "homicídio",
+                "bairro": "Campo Limpo",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195790/filho-de-radialista-assassinado-dentro-de-casa-durante-assalto-no-bairro-santa-mnica.html",
+                "tipo": "homicídio",
+                "bairro": "Santa Mônica",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "21",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195738/comando-leste-mantm-operao-policial-com-apoio-de-companhias-especializadas-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Asa Branca",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "20",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195666/aps-resultado-de-exame-de-dna-dh-feira-prende-acusado-de-matar-bruna-santana.html",
+                "tipo": "estupro",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "19",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195648/pessoas-podem-ter-aproveitado-a-morte-do-policial-para-cometer-crimes-diz-delegado-geral-da-polcia-civil.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "18",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195633/comandante-geral-da-pm-declara-que-haver-aes-mais-duras-de-represso-criminalidade.html",
+                "tipo": "homicídio",
+                "bairro": "São João",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "18",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195619/polcia-j-tem-nomes-de-suspeitos-de-matar-pm-demais-assassinatos-tambm-esto-sendo-investigados.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "18",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195602/polcia-civil-registra-17-homicdios-e-1-latrocnio-no-fim-de-semana.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "18",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195593/dois-jovens-so-mortos-a-tiros-em-feira-de-santana-nmero-de-crimes-sobe-para-16.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195587/14-pessoas-so-mortas-em-feira-de-santana-desde-sbado.html",
+                "tipo": "homicídio",
+                "bairro": "Santa Mônica",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195576/dois-homens-morrem-vtimas-de-tiros-no-bairro-conceio.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195575/dois-homens-so-assassinados-no-conjunto-cordeirpolis.html",
+                "tipo": "homicídio",
+                "bairro": "Mangabeira",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195569/mais-quatro-homicdios-so-registrados-pela-polcia-civil-nmero-de-mortos-sobe-para-9.html",
+                "tipo": "homicídio",
+                "bairro": "Campo Limpo",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195564/quatro-pessoas-so-assassinadas-em-intervalo-de-uma-hora-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "São João",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "16",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195553/suspeito-de-tentativa-homicdio-em-2001-preso-pela-polcia-civil.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195552/polcia-civil-cumpre-mandado-de-priso-e-prende-suspeito-de-roubo.html",
+                "tipo": "furto",
+                "bairro": "Sobradinho",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "16",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195544/pm-assassinado-ao-tentar-proteger-duas-pessoas-vtimas-de-assalto-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "São João",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "16",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195540/cidades-violentas-ssp-diz-que-atlas-da-violncia-falho-frum-responde-crtica.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "15",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195476/mulher-presa-acusada-de-trfico-de-drogas-no-bairro-capuchinhos.html",
+                "tipo": "tráfico",
+                "bairro": "Capuchinhos",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "14",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195443/dois-jovens-so-assassinados-aps-terem-casa-invadida-enquanto-dormiam.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "14",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195442/fiao-da-iluminao-de-led-da-avenida-getlio-vargas-furtada.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "14",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195438/mulher-presa-com-explosivos-na-rodoviria-de-feira-de-santana.html",
+                "tipo": "tráfico",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "14",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195437/aps-confronto-com-policiais-homem-morre-no-hospital-clriston-andrade.html",
+                "tipo": "furto",
+                "bairro": "Feira X",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "14",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195436/adolescente-assassinado-com-cerca-de-9-tiros-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "14",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195432/homem-baleado-e-morre-aps-subir-em-telhado-durante-fuga.html",
+                "tipo": "homicídio",
+                "bairro": "Campo Limpo",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "13",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195338/jovem-assassinado-a-tiros-na-feira-do-rolo.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "12",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195332/mulher-assassinada-no-bairro-rua-nova.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "12",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195331/mecnico-morto-a-tiros-no-bairro-papagaio.html",
+                "tipo": "homicídio",
+                "bairro": "Papagaio",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "12",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195294/polcia-registra-um-latrocnio-e-dois-homicdios-no-fim-de-semana.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "11",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195265/homem-assassinado-durante-tentativa-de-assalto-quando-retornava-de-festa.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "10",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195264/adolescente-assassinado-com-cerca-de-15-tiros-no-bairro-avirio.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "10",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195232/acusada-da-matar-a-namorada-do-ex-marido-condenada-13-anos-e-6-meses-de-priso.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "8",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195200/dois-homicdios-registrados-na-noite-de-quinta-feira-7-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "8",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195148/homem-morto-a-tiros-no-bairro-tomba.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "7",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195147/instalador-de-internet-morto-a-tiros-em-feira-de-santana-colega-baleado.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195144/polcia-registra-assassinato-no-bairro-santo-antnio-dos-prazeres.html",
+                "tipo": "homicídio",
+                "bairro": "Santo Antônio",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195119/universitrio-condenado-por-homicdio-e-tentativa-de-homicdio-recorre-de-sentena-em-liberdade.html",
+                "tipo": "homicídio",
+                "bairro": "São João",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195106/suspeito-de-roubar-veculo-morre-em-confronto-com-a-rondesp-comparsa-preso.html",
+                "tipo": "furto",
+                "bairro": "Mangabeira",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "6",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/195055/pm-apreende-maconha-em-ponto-de-drogas-no-conjunto-george-amrico.html",
+                "tipo": "tráfico",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "4",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194990/homem-assassinado-enquanto-conduzia-moto-no-bairro-asa-branca.html",
+                "tipo": "homicídio",
+                "bairro": "Asa Branca",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "3",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194986/homens-encapuzados-executam-jovem-no-bairro-irm-dulce.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "2",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194982/27-homicdios-registrados-em-maio-de-2018-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "2",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194971/casal-assassinado-a-tiros-em-frente-a-residncia-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "2",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194927/homens-invadem-residncia-e-executam-uma-pessoa-com-cerca-de-20-tiros.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "1",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194925/homem-morto-com-vrios-tiros-no-bairro-jardim-cruzeiro.html",
+                "tipo": "homicídio",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "1",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194921/perseguio-em-ruas-de-feira-de-santana-termina-com-dois-presos-em-carro-roubado.html",
+                "tipo": "furto",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "1",
+                "mes": "6",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194889/homem-preso-com-drogas-dentro-de-residncia-no-parque-panorama.html",
+                "tipo": "tráfico",
+                "bairro": "Sobradinho",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "30",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194754/cinco-homicdios-registrados-no-fim-de-semana-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Santo Antônio",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "28",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194719/duplo-homicdio-registrado-no-bairro-santo-antnio-dos-prazeres.html",
+                "tipo": "homicídio",
+                "bairro": "Santo Antônio",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "27",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194690/uma-pessoa-assassinada-e-outra-baleada-no-conjunto-george-amrico.html",
+                "tipo": "homicídio",
+                "bairro": "Aeroporto",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194674/polcia-civil-prende-acusado-de-praticar-estupros-em-feira-de-santana.html",
+                "tipo": "estupro",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "25",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194654/suspeito-de-roubar-empresa-de-telefonia-preso-com-arma-do-crime-em-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "25",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194625/mais-de-250-quilos-de-drogas-so-incinerados-em-feira-de-santana.html",
+                "tipo": "tráfico",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "24",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194560/passageiros-so-assaltados-em-nibus-do-transporte-coletivo-de-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "Novo Horizonte",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "23",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194527/entrega-de-461-novas-viaturas-refora-frota-da-polcia-militar.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "23",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194520/bandidos-assaltam-candidatos-a-vagas-de-emprego-na-fila-da-casa-do-trabalhador.html",
+                "tipo": "furto",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "23",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194477/chegarei-ao-final-do-mandato-com-100-da-frota-das-polcias-renovada-destaca-rui.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "22",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194471/homens-invadem-residncia-e-matam-jovem-a-tiros.html",
+                "tipo": "homicídio",
+                "bairro": "Papagaio",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194449/mais-uma-pessoa-morta-a-tiros-no-conjunto-george-amrico.html",
+                "tipo": "homicídio",
+                "bairro": "Centro",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194428/jovem-baleado-no-george-amrico-morre-no-hgca.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "21",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194384/polcia-registra-homicdio-na-noite-de-sbado-em-condomnio-no-bairro-mangabeira.html",
+                "tipo": "homicídio",
+                "bairro": "Mangabeira",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "20",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194356/mais-de-80-passageiros-so-saqueados-em-assalto-a-dois-nibus-na-br-101.html",
+                "tipo": "furto",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "19",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194355/homem-assassinado-com-golpe-de-faca-prximo-a-rodoviria.html",
+                "tipo": "homicídio",
+                "bairro": "Campo do gado novo",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "19",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194328/vendedor-ambulante-assassinado-a-tiros-no-centro-de-abastecimento.html",
+                "tipo": "homicídio",
+                "bairro": "Centro",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "18",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194291/polcia-civil-desarticula-quadrilha-e-recupera-carga-roubada-em-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "17",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194290/motorista-de-uber-presta-queixa-contra-taxista-por-tentativa-de-homicdio.html",
+                "tipo": "homicídio",
+                "bairro": "Sobradinho",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194287/corpo-encontrado-em-matagal-no-bairro-so-joo.html",
+                "tipo": "homicídio",
+                "bairro": "São João",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194286/polcia-registra-homicdio-em-santa-brbara.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194284/dois-homens-morrem-em-confronto-com-a-polcia-em-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Ponto Central",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194240/homem-morre-no-clriston-andrade-aps-trocar-tiros-com-a-polcia.html",
+                "tipo": "furto",
+                "bairro": "Papagaio",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "17",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194209/cargas-avaliadas-em-rs-325-mil-so-recuperadas-em-duas-cidades.html",
+                "tipo": "furto",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "16",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194179/em-60-minutos-polcia-civil-registrou-dois-assassinatos-na-noite-de-tera-feira.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194129/moto-centro-apreende-casal-por-suspeita-de-trfico-de-drogas-no-centro-de-feira.html",
+                "tipo": "tráfico",
+                "bairro": "Sobradinho",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "15",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194114/passageiros-que-seguiam-de-serrinha-para-fazer-exames-em-salvador-so-saqueados-em-assalto-na-br-116-norte.html",
+                "tipo": "furto",
+                "bairro": "Novo Horizonte",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "15",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194110/trs-adolescentes-so-apreendidos-com-drogas-em-feira-de-santana.html",
+                "tipo": "tráfico",
+                "bairro": "Centro",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "14",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194053/garom-assassinado-a-tiros-no-bairro-sim.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "13",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194051/detentas-contam-como-passar-o-dia-das-mes-longe-dos-filhos-e-da-famlia.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "13",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/194013/mulher-presa-suspeita-de-trfico-de-drogas.html",
+                "tipo": "tráfico",
+                "bairro": "Sobradinho",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "12",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193990/homem-que-roubou-carro-em-salvador-preso-em-feira.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "11",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193956/homem-que-colocou-fogo-na-casa-e-matou-filhos-condenado-a-mais-de-100-anos-de-priso.html",
+                "tipo": "homicídio",
+                "bairro": "Mangabeira",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "10",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193949/carga-avaliada-em-meio-milho-recuperada-em-entre-rios.html",
+                "tipo": "sequestro",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "10",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193935/homem-se-passa-por-cliente-e-furta-celular-em-loja-de-calados-em-feira-veja-vdeo.html",
+                "tipo": "furto",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "10",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193907/preso-em-irar-suspeito-de-matar-travesti-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Ponto Central",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "10",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193905/empresrio-preso-em-feira-de-santana-por-ter-comprado-carga-roubada-de-ar-condicionado.html",
+                "tipo": "furto",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "10",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193886/suspeito-de-praticar-homicdios-tem-mandado-cumprido-em-humildes.html",
+                "tipo": "homicídio",
+                "bairro": "Sobradinho",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "9",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193787/duas-pessoas-assassinadas-na-segunda-feira-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "8",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193780/familiares-de-pm-morto-em-ao-da-rondesp-fazem-manifestao-e-cobram-justia.html",
+                "tipo": "homicídio",
+                "bairro": "Mangabeira",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "7",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193688/suspeitos-de-assaltos-no-conjunto-feira-x-so-presos-aps-troca-de-tiros.html",
+                "tipo": "furto",
+                "bairro": "Feira X",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "5",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193614/terceiro-suspeito-de-envolvimento-na-morte-de-bruna-solto-polcia-aguarda-resultado-de-exame-de-dna.html",
+                "tipo": "estupro",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "3",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193556/preso-acusado-de-participao-na-morte-do-guarda-municipal-marcus-vinicius.html",
+                "tipo": "homicídio",
+                "bairro": "São João",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "2",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193522/pm-prende-trio-por-porte-ilegal-de-arma-e-suspeita-de-assaltos-no-bairro-campo-limpo.html",
+                "tipo": "furto",
+                "bairro": "Campo Limpo",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "2",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193512/abril-tem-queda-no-ndice-de-homicdios-comparado-ao-mesmo-perodo-do-ano-passado.html",
+                "tipo": "homicídio",
+                "bairro": "Asa Branca",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "2",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193468/borracheiro-morto-a-tiros-e-homem-assassinato-dentro-de-casa-enquanto-dormia.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "1",
+                "mes": "5",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193414/trs-homicdios-so-registrados-no-domingo-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Aeroporto",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "30",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193393/homem-assassinado-a-tiros-no-distrito-de-humildes.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "29",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193359/aps-35-dias-internado-morre-padre-carlos-vianey.html",
+                "tipo": "homicídio",
+                "bairro": "Distrito Maquia Quitéria",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "27",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193243/dois-suspeitos-de-envolvimento-na-morte-de-bruna-santana-so-liberados.html",
+                "tipo": "estupro",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "25",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193239/dois-homens-so-presos-por-estupro-em-feira-de-santana.html",
+                "tipo": "estupro",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "25",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193235/pm-apreende-duas-pistolas-em-feira-de-santana.html",
+                "tipo": "tráfico",
+                "bairro": "Tomba",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "25",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193212/delegado-matheus-souza-passa-a-trabalhar-na-2-delegacia-de-txicos-e-entorpecentes-draco.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "25",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193194/termina-prazo-de-priso-temporria-de-suspeitos-de-envolvimento-na-morte-de-bruna-santana.html",
+                "tipo": "estupro",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "24",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193174/polcia-j-identificou-suspeito-de-estuprar-e-cortar-cabelos-de-7-mulheres-em-feira-de-santana.html",
+                "tipo": "estupro",
+                "bairro": "Campo do gado novo",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "24",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193146/polcia-registra-assassinato-em-so-gonalo-dos-campos.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "24",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193137/comercirio-assassinado-na-porta-de-casa-no-bairro-campo-limpo.html",
+                "tipo": "homicídio",
+                "bairro": "Campo Limpo",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "24",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193107/polcia-civil-cumpre-mais-um-mandado-durante-festa-em-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Sobradinho",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "23",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193102/polcia-civil-desarticula-quadrilha-aps-priso-na-micareta-de-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "23",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193049/homem-preso-instantes-aps-furtar-celular-de-folio-na-micareta-de-feira.html",
+                "tipo": "furto",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "21",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193028/preso-um-dos-acusados-de-matar-menina-de-10-anos-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "21",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/193024/segurana-morto-a-tiros-na-estrada-que-d-acesso-a-humildes-em-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Subaé",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "21",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192981/acusado-de-matar-homem-em-bar-de-tanquinho-encaminhado-para-o-conjunto-penal.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "20",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192965/rondep-leste-divulga-aes-para-a-micareta-de-feira-2018.html",
+                "tipo": "tráfico",
+                "bairro": "SIM",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "20",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192935/crime-passional-pode-ter-motivado-morte-de-jovem-dentro-de-txi-diz-delegado.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "19",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192907/homem-esfaqueado-na-avenida-santo-antnio.html",
+                "tipo": "homicídio",
+                "bairro": "Capuchinhos",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "19",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192898/em-menos-de-24h-policia-apreende-drogas-avaliadas-em-rs1-milho.html",
+                "tipo": "tráfico",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "18",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192861/acusados-de-roubar-postos-de-combustveis-so-presos-pela-polcia-civil.html",
+                "tipo": "furto",
+                "bairro": "Queimadinha",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "18",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192821/rondesp-leste-prende-casal-suspeito-de-assaltos-no-centro-de-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192789/funcionria-pblica-morta-a-tiros-em-rafael-jambeiro.html",
+                "tipo": "latrocínio",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "17",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192785/homem-assassinado-a-golpes-de-faca-aps-briga-polcia-suspeita-de-crime-passional.html",
+                "tipo": "homicídio",
+                "bairro": "Calumbi",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192763/mulher-tenta-matar-ambulante-aps-briga-por-quatro-goiabas-na-marechal-deodoro.html",
+                "tipo": "homicídio",
+                "bairro": "Sobradinho",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192728/homem-assassinado-em-bar-no-municpio-de-tanquinho.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192694/terceiro-suspeito-de-envolvimento-na-morte-de-bruna-santana-muda-verso-outra-vez.html",
+                "tipo": "estupro",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "14",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192679/jovem-morto-a-tiros-no-conjunto-george-amrico.html",
+                "tipo": "homicídio",
+                "bairro": "Aeroporto",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "14",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192678/homem-assassinado-com-cerca-de-dez-tiros-no-bairro-conceio.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "14",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192677/polcia-civil-recupera-carga-de-caf-avaliada-em-rs-200-mil.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "13",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192648/acusado-de-praticar-homicdios-em-feira-de-santana-preso-pela-rondesp.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "13",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192592/com-a-maior-malha-federal-sob-a-administrao-da-prf-efetivo-na-bahia-continua-defasado.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "12",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192578/polcia-registra-homicdios-nos-bairros-jardim-cruzeiro-e-eucaliptos.html",
+                "tipo": "homicídio",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "12",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192573/comerciante-encontrado-morto-aps-ficar-24-horas-desaparecido.html",
+                "tipo": "homicídio",
+                "bairro": "Papagaio",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "11",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192561/homem-preso-pela-rondesp-suspeito-de-assaltar-e-matar-dois-idosos-em-feira-de-santana-e-anguera.html",
+                "tipo": "homicídio",
+                "bairro": "Asa Branca",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "11",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192535/polcia-registra-mais-trs-homicdios-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "11",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192530/trs-veculos-recuperados-em-menos-de-24-horas-pela-67-cipm.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "11",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192506/homem-procurado-por-roubar-estuprar-e-cortar-cabelo-de-mulheres-em-feira-de-santana.html",
+                "tipo": "estupro",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "10",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192470/comerciante-assassinado-em-bar-na-praa-do-tropeiro.html",
+                "tipo": "homicídio",
+                "bairro": "Asa Branca",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "10",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192460/pm-elucida-morte-de-policial-em-2016-e-civil-vai-reabrir-investigao.html",
+                "tipo": "homicídio",
+                "bairro": "Conjunto João Paulo",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "9",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192427/polcia-registra-duplo-homicdio-em-povoado-do-distrito-maria-quitria.html",
+                "tipo": "homicídio",
+                "bairro": "Distrito Maquia Quitéria",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "9",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192425/cinco-assassinatos-registrados-em-feira-de-santana-no-fim-de-semana.html",
+                "tipo": "homicídio",
+                "bairro": "Asa Branca",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "9",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192419/suspeito-de-praticar-homicdios-em-feira-de-santana-flagrado-com-arma-e-munies.html",
+                "tipo": "homicídio",
+                "bairro": "São João",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "8",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192417/travesti-assassinada-e-polcia-suspeita-de-latrocnio.html",
+                "tipo": "homicídio",
+                "bairro": "Ponto Central",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "8",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192404/adolescente-atingido-por-tiro-acidental-quando-manuseava-arma-de-fabricao-caseira.html",
+                "tipo": "acidente",
+                "bairro": "Distrito Maquia Quitéria",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "8",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192398/homem-assassinado-aps-discusso-na-avenida-ayrton-senna.html",
+                "tipo": "homicídio",
+                "bairro": "Mangabeira",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "7",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192384/jovem-assassinado-a-tiros-na-madrugada-deste-sbado-7-.html",
+                "tipo": "homicídio",
+                "bairro": "Asa Branca",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "7",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192344/adolescente-de-15-anos-assassinado-com-cerca-de-20-tiros-no-bairro-stio-matias.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192309/homem-morto-a-tiros-no-bairro-campo-limpo.html",
+                "tipo": "homicídio",
+                "bairro": "Campo Limpo",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192304/polcia-registra-mais-um-homicdio-no-centro-de-abastecimento.html",
+                "tipo": "homicídio",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192298/imagens-mostram-que-policial-morto-em-ao-da-rondesp-estava-armado.html",
+                "tipo": "homicídio",
+                "bairro": "Mangabeira",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "5",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192267/duas-horas-aps-roubo-pm-recupera-veculo-e-prende-dupla-em-candeias.html",
+                "tipo": "furto",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "5",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192242/idoso-assaltado-e-morto-dentro-de-casa-no-distrito-de-jaguara.html",
+                "tipo": "homicídio",
+                "bairro": "Distrito de Jaguara",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "5",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192238/empresrio-preso-com-5-toneladas-de-suplementos-em-feira-de-santana-condenado-a-16-anos-de-priso.html",
+                "tipo": "clandestino",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "4",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192235/dois-homicdios-so-registrados-no-bairro-tomba-nesta-quarta-feira-4-.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "4",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192220/carro-roubado-em-feira-recuperado-em-so-cristovo.html",
+                "tipo": "furto",
+                "bairro": "Capuchinhos",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "4",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192206/jovem-assassinado-a-tiros-e-pedradas-no-bairro-novo-horizonte.html",
+                "tipo": "homicídio",
+                "bairro": "Asa Branca",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "4",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192183/mototaxista-morto-a-tiros-no-conjunto-feira-x.html",
+                "tipo": "homicídio",
+                "bairro": "Feira X",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "4",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192182/polcia-prende-em-feira-de-santana-mais-dois-suspeitos-de-sequestrar-adolescente-em-olindina.html",
+                "tipo": "sequestro",
+                "bairro": "Centro",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "4",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192178/terceiro-suspeito-de-envolvimento-na-morte-da-adolescente-bruna-santana-se-apresenta-polcia.html",
+                "tipo": "homicídio",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "3",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192165/coronel-lamenta-morte-de-pm-em-assalto-e-diz-que-ssp-tem-fora-tarefa-para-apurar-crimes-contra-policiais.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "3",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192150/adolescente-de-15-anos-assassinado-na-papa-joo-xxiii.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "3",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192116/acusado-de-assalto-morto-a-tiros-no-bairro-conceio.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "2",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192100/homem-morre-aps-troca-de-tiros-com-policiais-no-bairro-parque-ip.html",
+                "tipo": "homicídio",
+                "bairro": "Parque Ipê",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "2",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192059/polcia-registra-seis-homicdios-no-feriado-de-semana-santa-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "2",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192052/polcia-registra-o-6-assassinato-em-menos-de-48-horas-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "1",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192037/mulher-assassinada-a-tiros-prximo-a-igreja-no-conjunto-panorama-em-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "1",
+                "mes": "4",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192031/pm-baleado-durante-assalto-a-pedgio-em-candeias-morre-no-hospital.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "31",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192028/jovem-de-21-anos-morto-a-tiros-no-bairro-jardim-accia.html",
+                "tipo": "homicídio",
+                "bairro": "Chácara São Cosme",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "31",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192018/3-suspeito-de-envolvimento-na-morte-de-bruna-santana-deve-se-apresentar-polcia-diz-advogado.html",
+                "tipo": "homicídio",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "31",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/192004/criana-de-11-anos-morre-vtima-de-tiros-em-marcionlio-souza.html",
+                "tipo": "acidente",
+                "bairro": "Queimadinha",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "31",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191989/dupla-presa-durante-assalto-a-nibus-na-br-324.html",
+                "tipo": "furto",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "30",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191961/justia-decreta-priso-de-terceiro-suspeito-de-envolvimento-na-morte-de-bruna-santana-ele-est-foragido.html",
+                "tipo": "estupro",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "29",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191926/pm-baleado-e-motorista-morre-atropelado-em-assalto-a-praa-de-pedgio.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "29",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191911/garota-de-14-anos-sequestrada-passa-5h-em-matagal-e-obrigada-a-dividir-hotel-com-bandidos.html",
+                "tipo": "sequestro",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "28",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191897/polcia-prende-nove-pessoas-entre-elas-dupla-acusada-de-vrios-homicdios-em-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "28",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191876/acusado-de-praticar-homicdio-em-feira-de-santana-preso-durante-operao-da-polcia-civil.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "28",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191860/vigilante-assassinado-a-tiros-em-residencial-no-bairro-mangabeira.html",
+                "tipo": "homicídio",
+                "bairro": "Mangabeira",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "28",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191837/familiares-de-estudante-assassinado-fazem-protesto-no-terminal-central-e-pedem-justia.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "27",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191829/acusado-de-assalto-preso-com-arma-em-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "27",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191826/dh-de-feira-recupera-motocicleta-furtada.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "27",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191769/polcia-aguarda-laudos-de-exames-periciais-do-corpo-da-adolescente-bruna-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191745/acusado-de-mais-de-20-assassinatos-homicida-procurado-pela-polcia-de-feira-de-santana-assassinado-em-muniz-ferreira.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191726/polcia-registra-trs-homicdios-no-fim-de-semana-em-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Novo Horizonte",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191707/sobrinho-de-padre-vianei-diz-que-tio-tentou-se-defender-do-agressor-famlia-pede-que-justia-seja-feita.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "25",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191706/justia-prorroga-por-mais-um-ms-prises-temporrias-dos-suspeitos-de-envolvimento-na-morte-da-adolescente-bruna-santana.html",
+                "tipo": "estupro",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "25",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191697/em-estado-grave-padre-vianei-j-passou-por-vrias-cirurgias-arquidiocese-lamenta-tamanha-violncia.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "24",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191674/mulher-presa-com-droga-escondida-em-sof.html",
+                "tipo": "tráfico",
+                "bairro": "SIM",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "23",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191672/padre-carlos-vianei-vtima-de-tentativa-de-homicdio-no-distrito-de-maria-quitria.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "23",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191647/homem-perseguido-e-morto-no-mercado-do-tomba.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "23",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191635/polcia-prende-acusada-de-participar-de-homicdio-contra-ex-companheiro.html",
+                "tipo": "homicídio",
+                "bairro": "Muchila",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "23",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191610/tiro-que-matou-estudante-em-feira-de-santana-foi-acidental-diz-delegado-jovens-estavam-brincando.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191556/duas-pessoas-assassinadas-em-feira-entre-as-vtimas-um-adolescente-de-14-anos.html",
+                "tipo": "acidente",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191509/um-ms-aps-corpo-ser-encontrado-morte-de-bruna-santana-continua-sendo-investigada.html",
+                "tipo": "estupro",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "21",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191500/familiares-de-representante-de-cosmticos-assassinado-fazem-manifestao-para-pedir-justia.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "20",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191406/polcia-registra-trs-homicdios-e-um-latrocnio-no-fim-de-semana-em-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "19",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191384/jovem-assassinado-na-madrugada-deste-domingo-no-bairro-queimadinha.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "18",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191382/representante-de-cosmticos-morto-a-facadas-aps-sair-de-salo-de-beleza-suspeito-preso.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "17",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191379/homem-assassinado-dentro-de-veculo-ao-parar-em-sinaleira-na-avenida-eduardo-fres-da-mota.html",
+                "tipo": "homicídio",
+                "bairro": "São João",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "17",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191370/homem-assassinado-a-tiros-na-manh-deste-sbado-no-bairro-pampalona.html",
+                "tipo": "homicídio",
+                "bairro": "Pampalona",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191350/dh-feira-aprende-acusada-de-trfico-e-conduz-adolescente-envolvido-em-incndio-a-nibus.html",
+                "tipo": "homicídio",
+                "bairro": "Feira IX",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191272/jovem-assassinado-quando-saa-para-comprar-po-no-bairro-stio-matias.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "15",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191245/delegacia-de-homicdios-prende-acusado-de-agredir-e-matar-homem-usando-uma-panela-de-presso.html",
+                "tipo": "homicídio",
+                "bairro": "Feira X",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "14",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191221/delegacia-de-represso-a-furtos-e-roubos-apreende-veculos-na-ilha-do-rato.html",
+                "tipo": "furto",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "14",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191146/veculo-utilizado-em-homicdio-apreendido-pela-67-cipm.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "13",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191125/assaltos-no-bairro-sim-assustam-moradores-major-diz-que-policiamento-est-sendo-intensificado.html",
+                "tipo": "furto",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "12",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191117/polcia-prende-acusado-matar-homem-a-tiros-no-bairro-tomba-em-2017.html",
+                "tipo": "homicídio",
+                "bairro": "Viveiros",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "12",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191089/guardador-de-carros-preso-por-porte-ilegal-de-arma.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "12",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191075/homem-espancado-e-morto-por-populares-aps-suspeita-de-estuprar-enteado-de-4-anos.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "12",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191054/polcia-registra-trs-homicdios-de-sbado-para-domingo-em-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "11",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191050/polcia-apreende-35-toneladas-de-carnes-irregulares-em-operao-na-br-324.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "11",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191049/homem-assassinado-com-tiros-de-pistola-no-bairro-baranas.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "10",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/191016/canil-do-batalho-de-choque-e-cpr-leste-capturam-foragido-de-sergipe.html",
+                "tipo": "tráfico",
+                "bairro": "Campo Limpo",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "9",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190997/viveiros-operao-para-conter-troca-de-tiros-entre-faces-termina-com-dois-suspeitos-mortos-e-dois-presos.html",
+                "tipo": "homicídio",
+                "bairro": "Pedra do Descanso",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "9",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190973/deams-da-bahia-enviam-mais-de-7-mil-casos-para-justia-em-2017.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "8",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190917/ex-presidirio-acusado-de-assalto-a-joalheria-morto-a-tiros-no-bairro-cidade-nova.html",
+                "tipo": "homicídio",
+                "bairro": "Cidade Nova",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "8",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190913/polcia-prende-dois-homens-e-apreende-droga-avaliada-em-rs-100-mil.html",
+                "tipo": "tráfico",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "7",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190869/justia-concede-habeas-corpus-a-msicos-da-banda-new-hit-condenados-por-estupro-de-fs.html",
+                "tipo": "estupro",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "7",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190855/acusado-de-atear-fogo-na-ex-namorada-condenado-a-mais-de-15-anos-de-priso.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190789/pms-da-bcs-rua-nova-palestram-para-alunos-sobre-a-importncia-da-bandeira-nacional.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "5",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190787/pm-recaptura-sete-dos-oito-adolescentes-que-fugiram-da-case-zilda-arns-em-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "5",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190759/homens-roubam-veculo-com-faca-e-so-presos-momentos-aps-pelo-peto-67.html",
+                "tipo": "furto",
+                "bairro": "Sobradinho",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "5",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190740/cinco-pessoas-mortas-a-tiros-no-fim-de-semana-entre-as-vtimas-uma-criana-de-3-anos.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "5",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190714/jovem-assassinado-a-tiros-no-distrito-da-matinha-e-criana-de-trs-anos-que-foi-baleada-morre-no-hec.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "3",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190691/homem-assassinado-a-tiros-no-bairro-queimadinha.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "3",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190671/polcia-registra-34-homicdios-em-fevereiro-de-2018.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "2",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190652/polcia-prende-3-suspeito-de-participar-de-tentativa-de-homicdio-no-avirio.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "2",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190636/mulher-presa-com-mais-de-rs-20-mil-em-cocana-no-bairro-tomba.html",
+                "tipo": "furto",
+                "bairro": "Tomba",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "2",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190568/mulher-acusada-de-matar-o-marido-a-facadas-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "1",
+                "mes": "3",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190567/acusado-de-matar-duas-pessoas-no-feira-ix-condenado-a-mais-de-11-anos-de-priso.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "28",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190527/policiais-prendem-dupla-suspeita-de-assaltos-e-apreendem-arma.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "28",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190506/passageiro-surta-mata-menino-de-13-anos-a-facadas-e-fere-trs-pessoas.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "28",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190499/dois-irmos-de-feira-de-santana-so-assassinados-em-saubara.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "27",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190434/homens-arrancam-grade-invadem-casa-e-matam-jovem-no-distrito-de-humildes.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "27",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190428/suspeito-de-envolvimento-na-morte-da-adolescente-diz-que-no-conhecia-a-vtima-defende-advogado.html",
+                "tipo": "estupro",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190386/homem-morto-a-tiros-no-bairro-chcara-so-cosme.html",
+                "tipo": "homicídio",
+                "bairro": "Chácara São Cosme",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190384/uma-mulher-e-dois-homens-assassinados-no-fim-de-semana-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190357/casal-assassinado-a-tiros-na-frente-de-casa-no-bairro-queimadinha.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "25",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190342/homem-assassinado-a-tiros-dentro-de-casa-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Campo Limpo",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "24",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190329/justia-decreta-priso-temporria-de-dois-suspeitos-de-envolvimento-na-morte-de-bruna-santana.html",
+                "tipo": "estupro",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "23",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190326/delegacia-de-homicdios-colhe-novos-depoimentos-sobre-morte-de-bruna-santana.html",
+                "tipo": "estupro",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "23",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190260/adolescente-de-14-anos-assassinado-com-mais-de-10-tiros-dentro-de-oficina.html",
+                "tipo": "homicídio",
+                "bairro": "Feira VII",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190258/polcia-registra-homicdio-no-residencial-asa-branca.html",
+                "tipo": "homicídio",
+                "bairro": "Asa Branca",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190253/namorado-de-garota-encontrada-morta-est-sendo-ameaado-diz-me-do-adolescente.html",
+                "tipo": "estupro",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190227/homem-morto-a-pedradas-no-bairro-queimadinha.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190196/era-uma-criana-com-tudo-pela-frente-diz-pai-de-garota-assassinada-em-feira-de-santana.html",
+                "tipo": "estupro",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "21",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190177/garota-que-estava-desaparecida-encontrada-morta-polcia-suspeita-de-estupro.html",
+                "tipo": "homicídio",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "21",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190162/homem-encontrado-morto-com-as-mos-algemadas-no-bairro-papagaio.html",
+                "tipo": "homicídio",
+                "bairro": "Papagaio",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "21",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190142/acusados-de-participao-na-morte-de-jovens-em-cabuu-so-presos-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "20",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190031/suspeito-de-assalto-morto-a-tiros-no-bairro-tomba.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "19",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190006/polcia-busca-autores-da-morte-de-pintor-em-distrito-de-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "18",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/190005/mulher-presa-com-mais-de-20kg-de-drogas-no-bairro-tanque-da-nao-em-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "18",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189999/polcia-prende-homem-flagrado-vendendo-droga-na-rua-no-campo-do-gado-novo.html",
+                "tipo": "tráfico",
+                "bairro": "Campo do gado novo",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "18",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189958/comerciante-assassinado-a-tiros-em-praa-de-santa-brbara.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189873/polcias-civil-e-militar-montam-estratgia-conjunta-para-micareta-de-feira.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "15",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189823/rixa-antiga-motivou-assassinato-no-distrito-de-maria-quitria-diz-delegada.html",
+                "tipo": "homicídio",
+                "bairro": "Distrito Maquia Quitéria",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "14",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189689/jovem-assassinado-a-tiros-no-bairro-jardim-cruzeiro.html",
+                "tipo": "homicídio",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "11",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189637/homem-assassinado-a-tiros-no-centro-de-abastecimento.html",
+                "tipo": "homicídio",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "9",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189588/jovem-baleado-no-bairro-jardim-cruzeiro-morre-no-hgca.html",
+                "tipo": "homicídio",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "9",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189581/acusado-de-praticar-homicdio-em-salvador-preso-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "8",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189544/casal-executado-com-vrios-tiros-dentro-de-carro.html",
+                "tipo": "homicídio",
+                "bairro": "Santo Antônio",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "8",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189500/ex-presidirio-assassinado-a-tiros-no-bairro-santo-antnio-dos-prazeres.html",
+                "tipo": "homicídio",
+                "bairro": "Cruzeiro",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "7",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189499/acusado-de-trfico-de-drogas-tem-mandado-cumprido-por-homicdio-em-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Papagaio",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "7",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189460/decarga-e-prf-recuperam-carga-avaliada-em-quase-meio-milho-de-reais.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "7",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189445/polcia-civil-prende-suspeito-de-homicdio-em-feira-de-santana-e-apreende-drogas.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "6",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189444/jovem-atingido-por-quatro-tiros-morre-no-hgca.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189404/polcia-investiga-participao-de-pessoas-de-feira-em-tentativa-de-roubo-ao-banco-santander.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "6",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189341/fim-de-semana-polcia-registra-trs-assassinatos-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "5",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189277/cresce-nmero-de-homicdios-em-janeiro-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "3",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189259/idoso-acusado-de-estuprar-criana-de-11-anos-preso-em-feira-de-santana.html",
+                "tipo": "estupro",
+                "bairro": "Viveiros",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "2",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189253/mulher-conduzida-delegacia-por-tentativa-de-homicdio.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "2",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189215/fevereiro-comea-com-trs-assassinatos-em-feira-de-santana-gestante-baleada-na-barriga.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "2",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189209/homem-sequestrado-e-em-seguida-executado-no-distrito-de-matinha.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "1",
+                "mes": "2",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189153/polcia-civil-prende-acusados-de-matar-vendedor-ambulante-na-marechal-deodoro-vdeo-flagra-fuga.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "31",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189143/prf-prende-foragido-da-justia-durante-manifestao-em-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "31",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189132/homem-acusado-de-envenenar-ex-mulher-e-menina-de-4-anos-e-colocar-fogo-na-casa.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "31",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189123/trio-utilizava-associao-de-fachada-como-ponto-de-trfico-no-parque-lagoa-do-suba.html",
+                "tipo": "tráfico",
+                "bairro": "Conceição",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "31",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189100/30-homicdio-do-ano-em-feira-de-santana-registrado-no-bairro-conceio.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "30",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/189014/homem-assassinado-enquanto-andava-de-bicicleta-no-cis.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "29",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188956/polcia-registra-duplo-homicdio-na-madrugada-deste-domingo-em-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "28",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188915/homem-assassinado-na-rua-marechal-deodoro.html",
+                "tipo": "homicídio",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188870/idoso-acusado-de-estuprar-criana-de-5-anos-em-feira-de-santana.html",
+                "tipo": "estupro",
+                "bairro": "Asa Branca",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188851/pintor-assassinado-enquanto-andava-de-moto-com-o-pai.html",
+                "tipo": "homicídio",
+                "bairro": "Asa Branca",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "25",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188823/coordenadora-do-necrotrio-do-hgca-diz-que-funcionrios-no-tm-obrigao-de-abrir-sacos-com-corpos.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "25",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188753/comunicado-atrapalha-polcia-civil-em-realizao-de-levantamento-cadavrico-diz-delegado.html",
+                "tipo": "homicídio",
+                "bairro": "Campo do gado novo",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "24",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188696/polcia-acredita-que-homens-mataram-parentes-por-no-encontrarem-os-alvos.html",
+                "tipo": "homicídio",
+                "bairro": "Santa Mônica",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188656/3-homicdios-registrados-no-fim-de-semana-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Campo do gado novo",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188635/dois-homens-so-mortos-a-tiros-no-bairro-santa-mnica-ii.html",
+                "tipo": "homicídio",
+                "bairro": "Santa Mônica",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "21",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188634/polcia-civil-investiga-duplo-homicdio-que-ocorreu-no-distrito-de-tiquaruu.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "20",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188593/posto-de-sade-assaltado-duas-vezes-em-menos-de-48-horas.html",
+                "tipo": "furto",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "19",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188564/homem-sequestrado-em-amlia-rodrigues-encontrado-morto-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "19",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188503/drfr-escolta-nibus-e-prende-segundo-acusado-de-matar-funcionria-dos-correios.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "18",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188497/homem-morre-em-confronto-com-policiais-militares-na-expanso-do-feira-ix.html",
+                "tipo": "homicídio",
+                "bairro": "Feira IX",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188488/comandante-geral-da-pm-anuncia-novas-viaturas-e-mais-policiais-para-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "17",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188456/acusado-de-envolvimento-em-latrocnio-de-funcionria-aposentada-dos-correios-preso.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "16",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188443/criminosos-invadem-fazenda-para-matar-jovem-no-o-encontram-e-matam-tio.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188432/mulher-se-joga-com-a-filha-de-carro-em-movimento-para-se-livrar-de-estupro.html",
+                "tipo": "estupro",
+                "bairro": "Campo Limpo",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188404/bandidos-arrombam-agncia-do-banco-santander-de-feira-de-santana-e-violam-cofre.html",
+                "tipo": "furto",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "15",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188403/brincadeira-com-travesti-motivou-assassinato-em-bar-no-bairro-parque-ip.html",
+                "tipo": "homicídio",
+                "bairro": "Parque Ipê",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "15",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188367/polcia-registra-duplo-homicdio-em-fazenda-no-distrito-de-tiquaruu.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "15",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188358/dai-de-feira-de-santana-cumpre-mandado-de-garoto-acusado-de-assassinato-durante-micareta.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "15",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188356/auxiliar-de-servios-gerais-assassinado-a-facadas-dentro-de-bar.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "15",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188328/quadrilha-acusada-de-roubo-a-banco-presa-em-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "13",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188311/polcia-recupera-veculo-roubado-em-feira-e-prende-acusados-de-assalto-e-receptao.html",
+                "tipo": "furto",
+                "bairro": "Sobradinho",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "12",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188289/polcia-civil-retoma-investigao-para-elucidar-a-morte-de-gabrielly.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "12",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188288/dois-jovens-de-feira-de-santana-so-assassinados-a-tiros-em-cabuu.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "12",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188261/delegacia-de-homicdios-prende-mais-quatro-acusados-de-assassinatos-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Feira VII",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "11",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188234/cresce-nmero-de-agresses-morais-e-estupro-em-feira-de-santana-prises-tambm-aumentaram.html",
+                "tipo": "estupro",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "11",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188225/mulher-encontrada-morta-dentro-de-casa-vtima-foi-estrangulada.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "11",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188183/jovem-assassinado-com-trs-tiros-na-cabea-no-bairro-caseb.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "10",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188181/polcia-buscar-imagens-e-dados-telefnicos-durante-investigao-de-morte-de-taxista.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "9",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188166/acusado-de-mais-de-10-homicdios-preso-em-feira-de-santana-entre-as-vtimas-uma-criana.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "9",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188161/aes-da-pm-e-pc-apreendem-28-kg-de-maconha-em-feira-de-santana.html",
+                "tipo": "tráfico",
+                "bairro": "Calumbi",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "9",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188160/jovem-sequestrado-em-feira-e-encontrado-morto-em-lamaro-era-foragido-da-justia-afirma-delegado.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "9",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188118/taxista-de-feira-de-santana-encontrado-morto-em-antnio-cardoso-carro-foi-incendiado.html",
+                "tipo": "homicídio",
+                "bairro": "Cruzeiro",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "8",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188090/sobe-para-quatro-o-nmero-de-homicdios-no-1-final-de-semana-de-2018.html",
+                "tipo": "homicídio",
+                "bairro": "Aeroporto",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "8",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188043/suspeitos-de-matar-garoto-de-13-anos-em-feira-j-foram-identificados-diz-delegada.html",
+                "tipo": "homicídio",
+                "bairro": "Santo Antônio",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188042/dois-assassinatos-so-registrados-na-noite-de-sexta-feira-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188035/cmera-mostra-assalto-em-trailer-bandido-leva-carro-da-vtima.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "5",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/188020/polcia-recupera-40-toneladas-de-papelo-carga-roubada-seria-vendida-por-rs-20-mil.html",
+                "tipo": "furto",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "5",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187988/menino-de-13-anos-assassinado-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Santo Antônio",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "5",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187987/polcia-registra-homicdio-no-bairro-santo-antnio-dos-prazeres.html",
+                "tipo": "homicídio",
+                "bairro": "Santo Antônio",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "4",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187981/jovem-morto-a-tiros-no-distrito-de-matinha.html",
+                "tipo": "homicídio",
+                "bairro": "Novo Horizonte",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "4",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187907/brao-armado-de-faco-criminosa-em-feira-preso-acusado-de-vrios-homicdios.html",
+                "tipo": "estupro",
+                "bairro": "Feira IX",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "3",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187817/cinco-pessoas-foram-assassinadas-no-feriado-entre-as-vtimas-uma-mulher.html",
+                "tipo": "homicídio",
+                "bairro": "Aeroporto",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "2",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187797/ltimo-dia-de-2017-foi-marcado-pela-violncia-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "1",
+                "mes": "1",
+                "ano": "2018"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187779/comerciante-morto-a-tiros-no-dia-do-aniversrio.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "31",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187776/homem-morto-com-golpes-de-faca-no-bairro-novo-horizonte.html",
+                "tipo": "homicídio",
+                "bairro": "Novo Horizonte",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "31",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187775/jovem-assassinado-a-tiros-no-bairro-avirio.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "31",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187757/dois-homens-so-assassinados-na-localidade-de-trs-riachos-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "30",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187752/jovem-encontrada-morta-com-vrios-tiros-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "29",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187613/homem-morto-a-pedradas-em-feira-de-santana-primos-assumem-o-crime.html",
+                "tipo": "homicídio",
+                "bairro": "Sobradinho",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "27",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187607/comerciantes-so-presos-com-carga-roubada-de-caf.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "27",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187579/jovem-de-23-anos-baleado-em-borracharia-morre-no-hgca.html",
+                "tipo": "homicídio",
+                "bairro": "Santa Mônica",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187539/duas-pessoas-so-mortas-e-uma-baleada-na-cidade-de-tanquinho.html",
+                "tipo": "homicídio",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187466/adolescente-de-17-anos-assassinado-aps-receber-ligao-e-sair-de-casa.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187351/homem-assassinado-no-bairro-mangabeira.html",
+                "tipo": "homicídio",
+                "bairro": "Mangabeira",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "21",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187350/homem-morre-em-troca-de-tiros-com-a-rondesp-no-bairro-mangabeira.html",
+                "tipo": "homicídio",
+                "bairro": "Calumbi",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "21",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187349/dois-homem-morrem-em-troca-de-tiros-com-a-pm-no-bairro-calumbi.html",
+                "tipo": "homicídio",
+                "bairro": "Calumbi",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "20",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187348/nibus-do-transporte-pblico-incendiado-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Calumbi",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "20",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187302/smtt-apreende-veculo-ligeirinho-conduzido-por-foragido-da-justia.html",
+                "tipo": "clandestino",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "20",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187288/trs-homens-morrem-aps-troca-de-tiros-com-policiais-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Subaé",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "20",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187280/aps-ameaarem-atear-fogo-em-viatura-da-smtt-trs-homens-so-conduzidos-para-delegacia.html",
+                "tipo": "clandestino",
+                "bairro": "Sobradinho",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "19",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187228/mestre-de-obras-assassinado-dentro-de-carro-no-distrito-de-humildes.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "19",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187225/pm-prende-quatro-de-espadas-do-baralho-do-crime-em-hospital-de-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Sobradinho",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "18",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187158/novo-delegado-toma-posse-na-delegacia-de-homicdios-de-feira-nesta-segunda-e-v-desafio.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "17",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187157/mulher-assassinada-enquanto-ia-visitar-marido-no-presdio-de-feira.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187109/polcia-registra-trs-homicdios-de-sexta-para-sbado-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Aeroporto",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187108/jovem-preso-por-trfico-na-lagoa-salgada-escondia-submetralhadora-debaixo-do-colcho.html",
+                "tipo": "tráfico",
+                "bairro": "Lagoa Salgada",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187050/jovem-de-18-anos-assassinado-a-tiros-no-bairro-sim.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "15",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/187031/um-jovem-assassinado-a-tiros-e-dois-ficam-feridos-no-bairro-queimadinha.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "14",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186979/drfr-prende-acusado-de-adquirir-cartes-de-crdito-sem-limite-com-dados-de-empresrios.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "13",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186963/mulher-presa-com-cerca-de-45-kg-de-maconha-dentro-de-casa.html",
+                "tipo": "furto",
+                "bairro": "Ponto Central",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "13",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186939/delegacias-de-feira-de-santana-tm-novos-titulares.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "13",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186913/presa-por-lavagem-de-dinheiro-mulher-de-chefe-de-quadrilha-vai-para-o-presdio-de-feira.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "12",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186882/suspeitos-de-matar-menina-de-10-anos-se-apresentam-na-delegacia.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "11",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186863/polcia-prende-homem-com-carro-roubado-e-submetralhadora-em-condomnio-de-feira.html",
+                "tipo": "furto",
+                "bairro": "SIM",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "11",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186836/duas-mulheres-e-dois-homens-assassinados-a-tiros-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Chácara São Cosme",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "11",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186829/mulher-executada-com-vrios-tiros-no-bairro-chcara-so-cosme.html",
+                "tipo": "homicídio",
+                "bairro": "Chácara São Cosme",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "10",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186818/mais-duas-pessoas-mortas-a-tiros-em-feira-entre-as-vtimas-uma-adolescente.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "10",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186805/homem-assassinato-em-bar-no-conjunto-george-amrico.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "9",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186799/suspeito-de-assalto-morre-aps-trocar-tiros-com-policiais-em-santa-brbara.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "9",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186726/bandidos-assaltam-funcionrios-de-posto-de-sade-em-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "Sobradinho",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "7",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186707/polcia-identifica-envolvidos-na-morte-de-menina-de-10-anos-ordem-partiu-de-dentro-do-presdio.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "7",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186698/eu-falei-com-eles-no-atirem-no-e-eles-atiraram-disse-a-me-de-menina-assassinada-em-feira.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "7",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186697/feira-de-santana-teve-oito-julgamentos-e-seis-condenaes-durante-o-ms-nacional-do-jri.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "7",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186679/homem-morto-a-tiros-no-conjunto-feira-vii.html",
+                "tipo": "homicídio",
+                "bairro": "Feira VII",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "7",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186677/menina-de-10-anos-assassinada-a-tiros-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Feira VII",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "7",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186661/polcia-civil-prende-dupla-suspeita-de-assaltos-a-motocicletas-em-feira.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "6",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186600/jovem-de-22-anos-assassinado-em-so-gonalo-dos-campos.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "5",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186567/polcia-registra-36-assassinatos-em-novembro-de-2017-policiamento-intensificado-em-busca-de-reduo.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "4",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186501/homem-perseguido-e-morto-com-16-tiros-no-conjunto-fraternidade-em-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "3",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186463/acusado-de-vrios-homicdios-preso-em-humildes.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "2",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186432/jovem-condenado-a-4-anos-de-priso-vai-cumprir-pena-em-liberdade.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "1",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186416/pedreiro-assassinado-com-cerca-de-5-tiros-no-povoado-de-galhardo.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "1",
+                "mes": "12",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186320/santa-brbara-dois-suspeitos-de-assaltos-morrem-em-troca-de-tiros-com-a-polcia.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "29",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186316/jri-condena-homem-que-matou-esposa-em-feira-a-cinco-anos-de-priso-em-regime-aberto.html",
+                "tipo": "homicídio",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "29",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186288/comrcio-mais-seguro-pm-refora-policiamento-para-as-compras-de-fim-de-ano.html",
+                "tipo": "furto",
+                "bairro": "Asa Branca",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "28",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186278/cmeras-flagram-roubo-de-carro-no-bairro-santa-mnica.html",
+                "tipo": "furto",
+                "bairro": "Santa Mônica",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "28",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186276/vtima-de-tiros-no-bairro-asa-branca-morre-no-hospital-geral-clriston-andrade.html",
+                "tipo": "homicídio",
+                "bairro": "Asa Branca",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "28",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186248/corpo-de-homem-de-51-anos-encontrado-no-rio-jacupe.html",
+                "tipo": "homicídio",
+                "bairro": "Pedra do Descanso",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "28",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186211/polcia-registra-trs-assassinatos-na-manh-desta-segunda-feira-27-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Campo do gado novo",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "27",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186190/5-pessoas-assassinadas-em-feira-de-santana-no-fim-de-semana.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "27",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186165/trs-pessoas-assassinadas-no-sbado-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186157/homem-assassinado-a-tiros-no-bairro-tanque-da-nao.html",
+                "tipo": "homicídio",
+                "bairro": "Feira X",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "25",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186155/mais-de-duas-toneladas-de-carne-irregular-so-apreendidas-em-operao.html",
+                "tipo": "clandestino",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "25",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186128/jovem-perseguido-e-morto-no-bairro-mangabeira.html",
+                "tipo": "homicídio",
+                "bairro": "Mangabeira",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "24",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186085/drfr-descobre-desmanche-de-carros-em-empresa-de-fachada.html",
+                "tipo": "furto",
+                "bairro": "Papagaio",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "23",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/186029/polcia-civil-prende-acusado-de-estuprar-a-filha-de-9-anos-em-feira-de-santana.html",
+                "tipo": "estupro",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185991/jovem-assassinado-no-bairro-tomba-e-outro-fica-ferido.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185933/sobe-para-trs-o-nmero-de-homicdios-no-fim-de-semana-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "20",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185914/tcnico-de-informtica-preso-pela-pm-cultivava-p-de-maconha-com-2-metros-de-altura.html",
+                "tipo": "tráfico",
+                "bairro": "Feira VI",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "20",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185886/homem-morto-a-facadas-em-bar-na-zona-rural-de-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "20",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185808/polcia-militar-prende-dois-homens-e-uma-mulher-com-drogas-armas-e-dinheiro.html",
+                "tipo": "tráfico",
+                "bairro": "Campo Limpo",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185800/acusado-de-roubo-e-trfico-assassinado-a-tiros-e-pedradas-prximo-ao-rio-jacupe.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "17",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185775/acusado-de-matar-e-torturar-menina-de-12-anos-j-est-no-conjunto-penal-de-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "17",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185713/moradores-encontram-corpo-no-bairro-nova-esperana.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185709/homem-assassinado-com-cerca-de-7-tiros-em-bar.html",
+                "tipo": "homicídio",
+                "bairro": "Feira IX",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185692/polcia-procura-motorista-que-matou-quatro-da-mesma-famlia.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "15",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185677/sargento-acusado-de-envolvimento-na-morte-de-empresrio-morre-no-hgca-vtima-de-tiros.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "15",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185626/carro-roubado-em-feira-encontrado-em-lava-jato-e-entregue-ao-dono.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "14",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185613/dte-prende-acusado-de-matar-adolescente-no-feira-vi.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "13",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185601/polcia-prende-acusado-de-torturar-e-matar-menina-de-12-anos-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "13",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185582/homem-que-se-passava-por-deficiente-auditivo-detido-acusado-de-praticar-furtos.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "13",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185564/com-mortes-neste-fim-de-semana-feira-de-santana-chega-a-300-homicdios-no-ano.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "13",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185555/homem-assassinado-em-residencial-no-bairro-mangabeira.html",
+                "tipo": "homicídio",
+                "bairro": "Mangabeira",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "12",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185542/adolescente-assassinado-a-tiros-no-conjunto-jos-ronaldo-uma-pessoa-foi-baleada.html",
+                "tipo": "homicídio",
+                "bairro": "Campo Limpo",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "11",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185496/homem-morto-a-tiros-dentro-de-bar-no-bairro-conceio.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "10",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185495/polcia-prende-6-suspeitos-de-envolvimento-com-o-trfico-de-drogas-em-feira-de-santana.html",
+                "tipo": "tráfico",
+                "bairro": "SIM",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "10",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185453/ex-presidirio-assassinado-enquanto-andava-de-bicicleta.html",
+                "tipo": "homicídio",
+                "bairro": "Feira VII",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "10",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185449/polcia-civil-prende-acusados-de-roubar-loja-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Cidade Nova",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "9",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185363/ajudante-de-pedreiro-assassinado-com-vrios-tiros-no-bairro-parque-lagoa-do-suba.html",
+                "tipo": "homicídio",
+                "bairro": "Subaé",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "8",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185332/esposa-de-detento-do-conjunto-penal-presa-com-fuzil-munies-e-drogas.html",
+                "tipo": "furto",
+                "bairro": "SIM",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "8",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185330/ms-nacional-do-jri-motorista-condenado-a-dez-anos-de-priso-por-assassinato.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "7",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185328/polcia-civil-prende-dois-acusados-de-furtar-lojas-e-residncias-em-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "Chácara São Cosme",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "7",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185263/guardador-de-carros-assassinado-prximo-estao-rodoviria-de-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185252/mandados-de-priso-preventiva-so-cumpridos-no-conjunto-penal-de-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Feira X",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185247/polcia-solicita-imagens-de-cmeras-para-investigao-de-duplo-homicdio-na-ilha-do-rato.html",
+                "tipo": "homicídio",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185232/humorista-renato-piaba-lamenta-furto-de-figurino-e-diz-que-fato-no-abalou-o-amor-que-sente-por-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "SIM",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "6",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185194/seis-pessoas-assassinadas-a-tiros-em-feira-de-santana-no-fim-de-semana.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "6",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185193/adolescente-morto-com-vrios-tiros-no-conjunto-feira-vi.html",
+                "tipo": "homicídio",
+                "bairro": "Feira VI",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "5",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185180/dois-homens-so-assassinados-a-tiros-na-praa-da-repblica-conhecida-como-ilha-do-rato.html",
+                "tipo": "homicídio",
+                "bairro": "Tomba",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "5",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185171/jovem-assassinado-com-vrios-tiros-no-bairro-limoeiro.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "4",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185161/26-pessoas-assassinadas-em-feira-de-santana-no-ms-de-outubro.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "4",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185084/uma-pessoa-morre-homem-e-trs-crianas-so-baleados-em-tiroteio-no-bairro-jussara.html",
+                "tipo": "homicídio",
+                "bairro": "Feira X",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "2",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185070/sete-pessoas-so-detidas-na-regio-de-feira.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "sim",
+                "roubo": "sim",
+                "dia": "1",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185041/trs-ex-integrantes-da-banda-new-hit-so-transferidos-para-o-conjunto-penal-de-feira-de-santana.html",
+                "tipo": "estupro",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "1",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185034/homem-assassinado-no-centro-de-abastecimento-o-7-homicdio-no-local.html",
+                "tipo": "homicídio",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "1",
+                "mes": "11",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185031/vendedor-ambulante-ferido-com-cerca-de-15-facadas-na-avenida-senhor-dos-passos.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "31",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/185001/dh-de-feira-cumpre-mandado-no-complexo-penal.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "31",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184965/acusado-de-tentar-matar-a-ex-namorada-contido-por-populares-e-preso.html",
+                "tipo": "homicídio",
+                "bairro": "Queimadinha",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "30",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184894/jovem-assassinado-no-anel-de-contorno-em-feira-vtima-morava-em-salvador.html",
+                "tipo": "homicídio",
+                "bairro": "SIM",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "28",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184867/acusado-de-matar-a-esposa-a-facadas-preso-durante-novo-depoimento.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "27",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184858/polcia-militar-prende-suspeitos-de-cometer-assaltos-em-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "27",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184763/lavrador-assassinado-e-homem-baleado-em-santa-brbara.html",
+                "tipo": "homicídio",
+                "bairro": "Distrito Maquia Quitéria",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "26",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184689/pedreiro-assassinado-a-tiros-no-bairro-avirio.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "24",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184646/acusado-de-matar-mulher-para-vingar-morte-do-amigo-presta-depoimento.html",
+                "tipo": "homicídio",
+                "bairro": "Ponto Central",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "23",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184572/polcia-registra-cinco-assassinatos-no-sbado-21-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Aviário",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "22",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184480/homem-assassinado-a-tiros-no-residencial-alto-do-rosrio.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "20",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184409/14-celulares-e-drogas-so-apreendidos-no-conjunto-penal-de-feira-de-santana.html",
+                "tipo": "furto",
+                "bairro": "FSA",
+                "drogas": "sim",
+                "roubo": "não",
+                "dia": "18",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184389/suspeito-de-ter-assassinado-mulher-a-facadas-se-apresenta-polcia.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "18",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184378/idoso-assassinado-durante-tentativa-de-assalto-em-tanquinho.html",
+                "tipo": "homicídio",
+                "bairro": "Centro",
+                "drogas": "não",
+                "roubo": "sim",
+                "dia": "18",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184275/suspeita-de-matar-sobrinho-envenenado-pode-ser-internada-em-manicmio.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184264/quatro-pessoas-assassinadas-em-feira-de-santana-no-fim-de-semana-9-no-feriado.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "16",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184246/trs-novos-nomes-de-foragidos-entram-para-baralho-do-crime-que-cataloga-os-mais-procurados-pela-polcia.html",
+                "tipo": "homicídio",
+                "bairro": "Conceição",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "15",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184244/adolescente-assassinado-a-tiros-no-distrito-da-matinha.html",
+                "tipo": "homicídio",
+                "bairro": "FSA",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "15",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184230/mais-uma-mulher-assassinada-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Ponto Central",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "14",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184203/mulher-assassinada-no-bairro-gabriela-com-golpes-de-faca.html",
+                "tipo": "homicídio",
+                "bairro": "Gabriela",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "13",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "https://www.acordacidade.com.br/noticias/184191/polcia-registra-3-homicdios-no-feriado-em-feira-de-santana.html",
+                "tipo": "homicídio",
+                "bairro": "Jardim Cruzeiro",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "13",
+                "mes": "10",
+                "ano": "2017"
+},
+{
+                "url": "http://www.bomdiafeira.com.br/noticias/26028/adolescente-de-17-anos-e-morto-com-tiro-na-testa-na-rua-nova.html",
+                "tipo": "",
+                "bairro": "",
+                "drogas": "não",
+                "roubo": "não",
+                "dia": "4",
+                "mes": "7",
+                "ano": "2018"
+}]
